@@ -1,2 +1,3 @@
 this is s fixes listed to be added background and stuff
 there are more changes to be done 
+one more bug detected and fixed 
