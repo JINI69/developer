@@ -1,2 +1,6 @@
 this is s fixes listed to be added background and stuff
 there are more changes to be done 
+Marketing teem needs to be finalised
+inventory system to be set up 
+barcode system to be added 
+api with current cassa 
