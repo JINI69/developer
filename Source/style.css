@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #00ff5e;
+    background: #000000;
   }
   
   /* Container */
@@ -80,7 +80,7 @@
   }
   
   .submit-btn:hover {
-    background: #eaff00;
+    background: hsl(0, 100%, 51%);
   }
   
   /* Hidden class */
